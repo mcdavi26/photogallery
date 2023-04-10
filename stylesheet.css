@@ -42,3 +42,38 @@ main {
     padding: 40px;
     display: block;
 }
+
+#contact {
+    padding: 35px;
+    background-color: #000000;
+    color:#ffffff;
+}
+
+section {
+    display: block;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    background-color: #000000;
+    padding: 10px;
+}
+
+@media screen and (max-width: 485px) {
+    .column {
+      width: 100%;
+    }
+  }
+
+  @media screen and (max-width: 880px) {
+    .column {
+      width: 100%;
+    }
+  }
+
+  @media screen and (max-width: 1300px) {
+    .column {
+      width: 100%;
+    }
+  }
